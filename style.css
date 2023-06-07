@@ -1,0 +1,9 @@
+body
+{
+    background-color: aqua;
+    background-image: url(bookbg.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-attachment: scroll;
+}
